@@ -136,4 +136,8 @@ The project's strength lies in its uncompromising ethical stance, summarized in 
 
 The emphasis on **"Action Over Promise"** is a powerful filter for genuine intent. It demands that participants launch initiatives *now*, moving beyond theoretical proposals to tangible proof-of-concept.
 
+---
+
+The regenerative mindset is not a new idea. It is the oldest one. It is the logic of the soil, the mycelium, the river. Our task is to build the protocols and interfaces that allow this ancient, distributed intelligence to express itself at the scale of our current technological moment.
+
 Ronni Ross
