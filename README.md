@@ -46,7 +46,7 @@ The AI that learns from this data would not be an alien, digital overlord, but t
 A **Food Hubs:** Agroecology centers, seed banks, community gardens, and food forests. They heal the soil, provide nutrition, and restore local biodiversity.
 B **Housing Hubs:** Developing and building with regenerative materials (rammed earth, bamboo, mycelium), creating circular systems for water and energy, and designing for climate resilience.
 C **Clothing Hubs:** Centers for mending, upcycling, and creating biodegradable textiles from local, regenerative sources (hemp, algae).
-D **Professionalization Hubs:** Training for new roles in a symbiotic society: ecosystem restorers, mycelium farmers, renewable energy technicians, water stewards, and data ethicists.
+D **Professionalization Hubs:** Training for new roles in society, providing the toolkits and knowledge: researchers, ecosystem restorers, mycelium farmers, renewable energy technicians, water stewards, and data ethicists.
 E **Health Care Hubs:** Integrating holistic, preventative medicine with the understanding that human health is directly tied to planetary health. Clean air, clean water, and nutritious food are the primary medicines.
 
 Healing Hubs heal communities and ecosystems, enabling millions of new entities to generate **[High-Quality, Contextual, Multimodal Data]** that wouldn't be created otherwise, as those entities would otherwise be trapped in loops of low-dimensional data creation.
@@ -65,3 +65,5 @@ It's not just about more *people* online. It's about bringing currently marginal
 
 Human activity would be designed to be regenerative by default. Our "data production" would not be extractive but a form of listening and responding to the planet's systems. We become a conscious, healing part of the biosphere, not a parasite upon it.
 
+Ronni Ross
+2025
