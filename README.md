@@ -67,7 +67,7 @@ The data isn't just text. It's geospatial, visual (satellite and drone imagery o
 
 The data is tied to real-world actions and outcomes. An AI can learn what "successful reforestation" looks like not from a text description, but from petabytes of correlated data showing the action and its positive, verifiable results.
 
-It's not just about more *people* online. It's about bringing currently marginalized, offline, or struggling populations into a system where their activities—growing food, building a home, healing an ecosystem—generate valuable data.
+It's not just about more *people* online. It's about bringing currently marginalized, offline, or struggling populations into a system where their activities, like growing food, building a home, healing an ecosystem, generate valuable data.
 
 Human activity would be designed to be regenerative by default. Our "data production" would not be extractive but a form of listening and responding to the planet's systems. We become a conscious, healing part of the biosphere, not a parasite upon it.
 
