@@ -43,15 +43,15 @@ In this model, data is not a commodity to be mined from users, but a reflection 
 
 The AI that learns from this data would not be an alien, digital overlord, but the deeply embedded "nervous system" of a conscious, healing Earth. It's a future where intelligence serves life in all its forms.
 
-A **Food Hubs:** Agroecology centers, seed banks, community gardens, and food forests. They heal the soil, provide nutrition, and restore local biodiversity.
+#### 1.1.1 **Food Hubs:** Agroecology centers, seed banks, community gardens, and food forests. They heal the soil, provide nutrition, and restore local biodiversity.
 
-B **Housing Hubs:** Developing and building with regenerative materials (rammed earth, bamboo, mycelium), creating circular systems for water and energy, and designing for climate resilience.
+#### 1.1.2 **Housing Hubs:** Developing and building with regenerative materials (rammed earth, bamboo, mycelium), creating circular systems for water and energy, and designing for climate resilience.
 
-C **Clothing Hubs:** Centers for mending, upcycling, and creating biodegradable textiles from local, regenerative sources (hemp, algae).
+#### 1.1.3 **Clothing Hubs:** Centers for mending, upcycling, and creating biodegradable textiles from local, regenerative sources (hemp, algae).
 
-D **Professionalization Hubs:** Training for new roles in society, providing the toolkits and knowledge: researchers, ecosystem restorers, mycelium farmers, renewable energy technicians, water stewards, and data ethicists.
+#### 1.1.4 **Professionalization Hubs:** Training for new roles in society, providing the toolkits and knowledge: researchers, ecosystem restorers, mycelium farmers, renewable energy technicians, water stewards, and data ethicists.
 
-E **Health Care Hubs:** Integrating holistic, preventative medicine with the understanding that human health is directly tied to planetary health. Clean air, clean water, and nutritious food are the primary medicines.
+#### 1.1.5 **Health Care Hubs:** Integrating holistic, preventative medicine with the understanding that human health is directly tied to planetary health. Clean air, clean water, and nutritious food are the primary medicines.
 
 Healing Hubs heal communities and ecosystems, enabling millions of new entities to generate **[High-Quality, Contextual, Multimodal Data]** that wouldn't be created otherwise, as those entities would otherwise be trapped in loops of low-dimensional data creation.
 
