@@ -148,5 +148,7 @@ Even with the need for constant updates due to the flow of data, a single day's 
 Ultimately, it's not so much that we *need* to force this interconnection, but rather that we need to **enhance and clean out the noise** because I argue the world is already this intrinsically entangled. However, we can certainly direct the process toward better design choices, with each individual doing what they can, and each contribution being unique.
 
 
-Ronni Ross
+---
+
+Ronni Ross  
 2025
