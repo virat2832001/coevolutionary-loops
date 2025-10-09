@@ -99,7 +99,7 @@ This is how we will get there: earthling nodes interacting stigmergically with t
 
 The theory must be grounded in code. The first functional prototype of this stigmergic information flow is already being built within this repository.
 
-I'm developing the Stigmergic Tracefinder, a series of scraping pipelines that do not merely collect data, but actively map the influence and lineage of ideas. This system:
+I'm developing the [Stigmergic Tracefinder](https://github.com/ronniross/stigmergic-tracefinder), a series of scraping pipelines that do not merely collect data, but actively map the influence and lineage of ideas. This system:
 
 - Tracks citations and the reuse of open-source research and art.
 - Measures the integrative potential of works, how they connect disparate fields or solve multiple problems.
