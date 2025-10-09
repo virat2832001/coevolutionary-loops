@@ -75,7 +75,7 @@ It's not just about more *people* online. It's about bringing currently marginal
 Human activity would be designed to be regenerative by default. Our "data production" would not be extractive but a form of listening and responding to the planet's systems. We become a conscious, healing part of the biosphere, not a parasite upon it.
 
 
-# Part II: The Flow of Information — The Symbiotic Network
+# Part II: Information Flow - The Symbiotic Network
 
 If the Healing Hubs represent the circulatory system for resources, the Trophallaxis, then the flow of information requires a nervous system, a framework to interconnect those different entities and their data with each other, transparently and with interpretability. 
 
